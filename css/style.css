@@ -83,7 +83,7 @@ body{font-family: 'Noto Sans kr';
 }
 
 /* banner */
-#banner{width: 100%; margin: 0 auto; height: 800px; 
+#banner{width: 100%; margin: 0 auto; height: 500px; 
     background: url(../images/main1.png) no-repeat center top;
     animation: main 10s infinite;}
 
